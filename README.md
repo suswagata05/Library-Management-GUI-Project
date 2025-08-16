@@ -2,8 +2,11 @@
 A Java Swing-based Library Management System with SQLite database. This project implements full **CRUD (Create, Read, Update, Delete)** functionality for books using Java Swing and SQLite. 
 
 ## Technologies Used
+
 Java Swing for GUI
+
 SQLite for database
+
 JDBC for database connection
 
 ## Author
