@@ -1,3 +1,15 @@
+# Library Management GUI
+A Java Swing-based Library Management System with SQLite database. This project implements full **CRUD (Create, Read, Update, Delete)** functionality for books using Java Swing and SQLite. 
+
+## Technologies Used
+Java Swing for GUI
+SQLite for database
+JDBC for database connection
+
+## Author
+Suswagata Ghosh
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
